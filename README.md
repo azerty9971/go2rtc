@@ -682,6 +682,7 @@ Supports [Amazon Kinesis Video Streams](https://aws.amazon.com/kinesis/video-str
 **xtend_tuya**
 
 Supports [Home Assistant eXtended Tuya](https://github.com/azerty9971/xtend_tuya), using WebRTC WHEP protocol. You need to specify the base URL of your Home Assistant instance, the device ID, the channel (low, high or an integer) and the auth_token that you generate in HA in your user profile (long term access token)
+Documentation is available at https://github.com/azerty9971/xtend_tuya/blob/main/docs/configure_go2rtc.md
 
 ```yaml
 streams:
